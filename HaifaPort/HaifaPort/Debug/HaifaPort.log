@@ -1,0 +1,10 @@
+﻿  HaifaPort.c
+C:\stackOverflow\OSFinalProject\HaifaPort\HaifaPort\HaifaPort.c(38,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\stackOverflow\OSFinalProject\HaifaPort\HaifaPort\HaifaPort.c(105,84): warning C4474: 'fprintf' : too many arguments passed for format string
+C:\stackOverflow\OSFinalProject\HaifaPort\HaifaPort\HaifaPort.c(105,84): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\stackOverflow\OSFinalProject\HaifaPort\HaifaPort\HaifaPort.c(112,20): warning C4473: 'fprintf' : not enough arguments passed for format string
+C:\stackOverflow\OSFinalProject\HaifaPort\HaifaPort\HaifaPort.c(112,20): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\stackOverflow\OSFinalProject\HaifaPort\HaifaPort\HaifaPort.c(112,20): message : the missing variadic argument 2 is required by format string '%d'
+C:\stackOverflow\OSFinalProject\HaifaPort\HaifaPort\HaifaPort.c(37,32): warning C4101: 'vasselID': unreferenced local variable
+C:\stackOverflow\OSFinalProject\HaifaPort\HaifaPort\HaifaPort.c(179): warning C4716: 'Haifa_Vessel': must return a value
+  HaifaPort.vcxproj -> C:\stackOverflow\OSFinalProject\HaifaPort\Debug\HaifaPort.exe

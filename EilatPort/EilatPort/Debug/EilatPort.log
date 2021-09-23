@@ -1,0 +1,10 @@
+﻿  EilatPort.c
+C:\stackOverflow\OSFinalProject\EilatPort\EilatPort\EilatPort.c(50,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\stackOverflow\OSFinalProject\EilatPort\EilatPort\EilatPort.c(63,19): warning C4473: 'fprintf' : not enough arguments passed for format string
+C:\stackOverflow\OSFinalProject\EilatPort\EilatPort\EilatPort.c(63,19): message : placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+C:\stackOverflow\OSFinalProject\EilatPort\EilatPort\EilatPort.c(63,19): message : the missing variadic argument 1 is required by format string '%s'
+C:\stackOverflow\OSFinalProject\EilatPort\EilatPort\EilatPort.c(206,35): warning C4047: '<': 'int' differs in levels of indirection from 'int (__cdecl *)(int)'
+C:\stackOverflow\OSFinalProject\EilatPort\EilatPort\EilatPort.c(365,15): warning C4098: 'initGlobalData': 'void' function returning a value
+C:\stackOverflow\OSFinalProject\EilatPort\EilatPort\EilatPort.c(456,17): warning C4098: 'canalListening': 'void' function returning a value
+C:\stackOverflow\OSFinalProject\EilatPort\EilatPort\EilatPort.c(146): warning C4716: 'Eilat_Vessel': must return a value
+  EilatPort.vcxproj -> C:\stackOverflow\OSFinalProject\EilatPort\Debug\EilatPort.exe
